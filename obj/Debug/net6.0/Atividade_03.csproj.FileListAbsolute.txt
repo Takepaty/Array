@@ -1,0 +1,15 @@
+C:\dev\Atividade_03\bin\Debug\net6.0\Atividade_03.exe
+C:\dev\Atividade_03\bin\Debug\net6.0\Atividade_03.deps.json
+C:\dev\Atividade_03\bin\Debug\net6.0\Atividade_03.runtimeconfig.json
+C:\dev\Atividade_03\bin\Debug\net6.0\Atividade_03.dll
+C:\dev\Atividade_03\bin\Debug\net6.0\Atividade_03.pdb
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.csproj.AssemblyReference.cache
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.AssemblyInfoInputs.cache
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.AssemblyInfo.cs
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.csproj.CoreCompileInputs.cache
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.dll
+C:\dev\Atividade_03\obj\Debug\net6.0\refint\Atividade_03.dll
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.pdb
+C:\dev\Atividade_03\obj\Debug\net6.0\Atividade_03.genruntimeconfig.cache
+C:\dev\Atividade_03\obj\Debug\net6.0\ref\Atividade_03.dll

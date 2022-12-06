@@ -1,0 +1,15 @@
+C:\dev\Percorrendo_Array\bin\Debug\net6.0\percorrendoArray.exe
+C:\dev\Percorrendo_Array\bin\Debug\net6.0\percorrendoArray.deps.json
+C:\dev\Percorrendo_Array\bin\Debug\net6.0\percorrendoArray.runtimeconfig.json
+C:\dev\Percorrendo_Array\bin\Debug\net6.0\percorrendoArray.dll
+C:\dev\Percorrendo_Array\bin\Debug\net6.0\percorrendoArray.pdb
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.csproj.AssemblyReference.cache
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.AssemblyInfoInputs.cache
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.AssemblyInfo.cs
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.csproj.CoreCompileInputs.cache
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.dll
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\refint\percorrendoArray.dll
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.pdb
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\percorrendoArray.genruntimeconfig.cache
+C:\dev\Percorrendo_Array\obj\Debug\net6.0\ref\percorrendoArray.dll
