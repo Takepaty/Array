@@ -11,6 +11,13 @@
       arrayInt[2] = 102;
       arrayInt[3] = 65;
       arrayInt[4] = 1;
+      
+      // >> Array.Resize <<    
+      // Array.Resize(ref arrayInteiros, arrayInteiros.Length * 3);
+
+      // >> Array.Copy <<
+      // var arrayInteirosDois = new int[arrayInteiros.Length * 3];
+      // Array.Copy(arrayInteiros, arrayInteirosDois, arrayInteiros.Length);
 
       Console.WriteLine("Percorrendo o Array com o FOR!");
       Console.WriteLine();
